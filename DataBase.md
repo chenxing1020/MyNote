@@ -1,5 +1,7 @@
 # 数据库概论
 
+>暂时不整理数据库的内容了，[cyc大佬](https://cyc2018.github.io/CS-Notes/#/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86?id=%E4%BA%94%E3%80%81%E5%A4%9A%E7%89%88%E6%9C%AC%E5%B9%B6%E5%8F%91%E6%8E%A7%E5%88%B6)整理的太棒了！
+
 ## 0 目录
 
 ## 1 概述
