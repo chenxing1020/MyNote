@@ -7,5 +7,5 @@
 - [:coffee: Java笔记](./Java/index.md)
 - [:open_file_folder: 数据结构与算法](https://github.com/chenxing1020/algs)
 - [:computer: 网络协议](./Protocol.md)
-- [:floppy_disk: 数据库](./DataBase.md)
+- [:floppy_disk: 数据库相关](./db/index.md)
 - [:envelope: Git常见操作](./Git.md)
